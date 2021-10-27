@@ -1,0 +1,4 @@
+const config = {
+    USERMAIL: "email", --> Seu do destinatário
+    PASSMAIL: "senha" --> Senha do E-mail do destinatário
+}
