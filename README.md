@@ -1,3 +1,12 @@
+Desenvolvimento de um sistema para mandar E-mails, pode se utilizado em vários casos, como caixa de suporte, duvidas, contatos, etc.
+O destinatário vai receber um email com 'Título', 'Nome', 'Email', e uma mensagem escrita pelo remetente!
+
+![image](https://user-images.githubusercontent.com/89309834/141975219-016bfa64-71ee-40fe-9d0c-17ce0ad959be.png)
+
+Vídeo utilizado: para o desenvolvimento https://www.youtube.com/watch?v=GTiuAm6S-OU
+Nome do canal: Luã Álvaro
+
+
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
