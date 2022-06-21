@@ -1,4 +1,4 @@
-Desenvolvimento de um sistema para mandar E-mails, pode se utilizado em vários casos, como caixa de suporte, duvidas, contatos, etc.
+Desenvolvimento de um sistema de suporte com objetivo de mandar E-mails, pode se utilizado em vários casos, como caixa de suporte, duvidas, contatos, etc.
 O destinatário vai receber um email com 'Título', 'Nome', 'Email', e uma mensagem escrita pelo remetente!
 
 ![image](https://user-images.githubusercontent.com/89309834/141975219-016bfa64-71ee-40fe-9d0c-17ce0ad959be.png)
